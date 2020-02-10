@@ -1,0 +1,57 @@
+#div1{
+    text-align: center;
+    border: pink solid 1px;
+   color: purple;
+}
+
+
+#div2{
+    text-align: center;
+    border: pink solid 1px;
+   
+}
+
+#div3{
+    text-align: center;
+    border: green solid 1px;
+    width: 30%;
+}
+
+#div4{
+    text-align: center;
+    border: blue solid 1px;
+   width: 60%;
+   float: right;
+   position: relative;
+   bottom: 82px;
+   
+    }
+
+
+#div5{
+    text-align: center;
+    border: blueviolet solid 1px;
+    width: 30%;
+    position: relative;
+    top: 20px;
+
+}
+
+
+#div6{
+    text-align: center;
+    border: black solid 1px;
+    width: 60%;
+    float: right;
+    position: relative;
+   bottom: 82px;
+   
+}
+
+#div7{
+    text-align: center;
+    border: red solid 1px;
+    width: 30%;
+    position: relative;
+    top: 40px;
+}
