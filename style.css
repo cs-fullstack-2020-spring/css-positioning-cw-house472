@@ -24,7 +24,8 @@
    float: right;
    position: relative;
    bottom: 82px;
-   
+   padding-top: 2%;
+   padding-bottom: 2%;
     }
 
 
@@ -45,6 +46,8 @@
     float: right;
     position: relative;
    bottom: 82px;
+   padding-top: 2%;
+   padding-bottom: 2%;
    
 }
 
